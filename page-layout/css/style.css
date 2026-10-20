@@ -1,0 +1,8 @@
+.container
+{
+  display:flex;
+}
+.container nav>ul
+{
+    list-style:none;
+}
